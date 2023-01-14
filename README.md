@@ -15,13 +15,13 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/maverickphp/](https://github.com/maverickphp/)
+- 👨‍💻 All of my projects are available at [https://github.com/qasim162000/](https://github.com/qasim162000/)
 
 - 💬 Ask me about **React, JavaScript, Node.Js**
 
-- 📫 How to reach me **fasih682@gmail.com**
+- 📫 How to reach me **m.qasim162000@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/maverickphp/](https://www.linkedin.com/in/maverickphp/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/qasim-daud/](https://www.linkedin.com/in/qasim-daud/)
 
 
 ## 🌐 Languages and Tools :
