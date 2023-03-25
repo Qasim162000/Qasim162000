@@ -100,5 +100,8 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qasim162000&theme=tokyonight" />
    <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=qasim162000&theme=tokyonight" />
 </div>
+<div align="center">
+   <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=qasim162000&theme=tokyonight" />
+</div>
 
 <br/>
