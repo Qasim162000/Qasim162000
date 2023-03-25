@@ -95,6 +95,8 @@
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=qasim162000&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=qasim162000&theme=tokyonight" />
+</div>
+<div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maverickphp&theme=tokyonight" />
 </div>
 
