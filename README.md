@@ -11,9 +11,9 @@
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-<h3> 🧑 I'm a Programmer, Developer, and Freelancer!!</h3>
+<h3> 🧑 I'm a Programmer, Developer, and a Freelancer!!</h3>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Next JS, Firebase & MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/qasim162000/](https://github.com/qasim162000/)
 
