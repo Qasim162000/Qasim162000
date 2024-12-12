@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Next JS, Firebase & MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/qasim162000/](https://github.com/qasim162000/)
+- 👨‍💻 All of my projects are available at [https://github.com/qasim162000/]([https://github.com/qasim162000/repositories](https://github.com/Qasim162000?tab=repositories)
 
 - 💬 Ask me about **React, JavaScript, Node.Js**
 
