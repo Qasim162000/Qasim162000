@@ -17,8 +17,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/qasim162000/repositories](https://github.com/Qasim162000?tab=repositories)
 
-- 💬 Ask me about **React, JavaScript, Node.Js**
-
 - 📫 How to reach me **m.qasim162000@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/qasim-daud/](https://www.linkedin.com/in/qasim-daud/)
