@@ -13,7 +13,7 @@
 
 <h3> 🧑 I'm a Full Stack Developer!!</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/qasim162000/repositories](https://github.com/Qasim162000?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/qasim162000/repositories](https://github.com/Qasim162000?tab=repositories). Please note that some repositories are private due to company policies but can be shared upon request.
 
 - 📫 How to reach me **m.qasim162000@gmail.com**
 
