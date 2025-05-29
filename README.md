@@ -11,7 +11,7 @@
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-<h3> 🧑 I'm a Full Stack Developer!!</h3>
+<h3> 🧑 I'm a Full Stack Software Engineer!!</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/qasim162000/repositories](https://github.com/Qasim162000?tab=repositories). Please note that some repositories are private due to company policies but can be shared upon request.
 
